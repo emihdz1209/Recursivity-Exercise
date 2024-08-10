@@ -1,0 +1,3 @@
+C:/Users/emili/OneDrive/Desktop/TEC/Semestre 3/Estructura de datos y Algoritmos/Recursivity/cmake-build-debug/CMakeFiles/Recursivity.dir
+C:/Users/emili/OneDrive/Desktop/TEC/Semestre 3/Estructura de datos y Algoritmos/Recursivity/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emili/OneDrive/Desktop/TEC/Semestre 3/Estructura de datos y Algoritmos/Recursivity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
